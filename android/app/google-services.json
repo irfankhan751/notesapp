@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "435977069172",
+    "project_id": "superblogger-e0bce",
+    "storage_bucket": "superblogger-e0bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435977069172:android:7c6297368d3a2eb8c6a721",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435977069172-55erent36n8muhsn9b6pkkk5he81e7n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesapp",
+            "certificate_hash": "32e88f3c795b3d690314d86e8692a926d4414d9d"
+          }
+        },
+        {
+          "client_id": "435977069172-g80djt1ui8tna2v9se5r8n06i1labn7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNldZcPm4th00E_kUOKRppbXJWWt4-HJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435977069172-1um6qaok8rfibpoog6vao2kb2tujiner.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435977069172-o43v61j5bkkrcecv2u4oksjcnniadkrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notesapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435977069172:android:339622617245e83ac6a721",
+        "android_client_info": {
+          "package_name": "com.intellibridgeltd.edublogr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435977069172-g80djt1ui8tna2v9se5r8n06i1labn7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNldZcPm4th00E_kUOKRppbXJWWt4-HJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435977069172-1um6qaok8rfibpoog6vao2kb2tujiner.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435977069172-o43v61j5bkkrcecv2u4oksjcnniadkrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notesapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
